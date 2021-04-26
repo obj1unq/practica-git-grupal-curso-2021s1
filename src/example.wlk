@@ -26,8 +26,16 @@ object matias{
 	}
 }
 
+
 object agustin {
 	method probando() {
 		return "probando pushear"
+}
+
+}
+
+object lautaro {
+	method figurando() {
+		return "aportando a la causa"
 	}
 }
