@@ -1,3 +1,15 @@
+object cocina {
+	var hornalla
+	
+	method prender() {
+		hornalla.calentar()
+	}
+}
+
+object hornalla {
+	// TODO
+}
+
 object taza {
 	var temperatura = 50
 	
