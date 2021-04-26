@@ -16,4 +16,8 @@ object matias{
 	method pruebaMetodoNuevo(){
 		return "pusheando por segunda vez"
 	}
+	
+	method materiaFavorita() {
+		return "Objetos 1"
+	}
 }
