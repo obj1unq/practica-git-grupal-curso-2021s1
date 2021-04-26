@@ -7,7 +7,11 @@ object cocina {
 }
 
 object hornalla {
-	// TODO
+	var property cosa
+	
+	method calentar() {
+		cosa.calentar()
+	}
 }
 
 object taza {
