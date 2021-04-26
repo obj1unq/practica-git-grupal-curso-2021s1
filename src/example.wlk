@@ -25,3 +25,9 @@ object matias{
 		return "a ver si git se rompe"
 	}
 }
+
+object lautaro {
+	method figurando() {
+		return "aportando a la causa"
+	}
+}
