@@ -27,3 +27,10 @@ object pava{
 	}
 }
 
+object helado {
+	
+	method mejorHelado() {
+		return "El mejor helado es la menta granizada"
+	}
+}
+
