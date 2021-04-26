@@ -62,3 +62,10 @@ object lautaro {
 
 }
 
+object facundo {
+	var ganasDeVivir = 1
+	
+	method pocasGanasDeVivir() {
+		ganasDeVivir = 0
+	}
+}
