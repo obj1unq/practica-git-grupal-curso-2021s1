@@ -10,6 +10,7 @@ object taza {
 	}
 }
 
+
 object cutucuchillo {
 	
 	var filo = 10
@@ -18,3 +19,11 @@ object cutucuchillo {
 		filo -= 2
 	}
 }
+
+object pava{
+	var temperatura = 100
+	method enfirar(){
+		temperatura -= temperatura/3
+	}
+}
+
