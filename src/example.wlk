@@ -40,6 +40,6 @@ object agustin {
 
 object lautaro {
 	method figurando() {
-		return "aportando a la causa"
+		return "aportando a la causa "
 	}
 }
