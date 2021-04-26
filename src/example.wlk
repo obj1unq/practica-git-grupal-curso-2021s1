@@ -17,6 +17,10 @@ object matias{
 		return "pusheando por segunda vez"
 	}
 	
+	method materiaFavorita() {
+		return "Objetos 1"
+	}
+	
 	method rompiendoGit(){
 		return "a ver si git se rompe"
 	}
