@@ -9,3 +9,12 @@ object taza {
 		temperatura += 1
 	}
 }
+
+object cutucuchillo {
+	
+	var filo = 10
+	
+	method cortar(_algo){
+		filo -= 2
+	}
+}
