@@ -14,6 +14,15 @@ object hornalla {
 	}
 }
 
+object cuchara {
+	
+	var desgaste = 100
+	
+	method revolver(){
+		desgaste -= 1
+	}
+}
+
 object taza {
 	var temperatura = 50
 	
@@ -48,5 +57,21 @@ object vaso {
 	
 	method romper() {
 		contenido = 0
+	}
+}
+
+object helado {
+	 
+	method mejorHelado() {
+		return "El mejor helado es la menta granizada"
+	}
+}
+
+const elMejor = true
+object mentaGranizada {
+	var esHelado = false
+	
+	method esHelado() {
+		return elMejor
 	}
 }

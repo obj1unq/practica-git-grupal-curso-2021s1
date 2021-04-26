@@ -52,13 +52,24 @@ object agustin {
 		return "probando pushear"
 	}
 
+	method viendoSiHayConflicto() {
+		return "probando"
+}
+
 }
 
 object lautaro {
 
 	method figurando() {
-		return "aportando a la causa"
+		return "aportando a la causa "
 	}
 
 }
 
+object facundo {
+	var ganasDeVivir = 1
+	
+	method pocasGanasDeVivir() {
+		ganasDeVivir = 0
+	}
+}
