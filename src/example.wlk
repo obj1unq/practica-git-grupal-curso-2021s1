@@ -16,4 +16,8 @@ object matias{
 	method pruebaMetodoNuevo(){
 		return "pusheando por segunda vez"
 	}
+	
+	method rompiendoGit(){
+		return "a ver si git se rompe"
+	}
 }
