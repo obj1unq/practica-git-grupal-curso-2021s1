@@ -43,3 +43,10 @@ object pava{
 	}
 }
 
+object vaso {
+	var contenido = 50
+	
+	method romper() {
+		contenido = 0
+	}
+}
