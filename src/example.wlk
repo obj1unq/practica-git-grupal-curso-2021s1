@@ -25,3 +25,9 @@ object matias{
 		return "a ver si git se rompe"
 	}
 }
+
+object agustin {
+	method probando() {
+		return "probando pushear"
+	}
+}
