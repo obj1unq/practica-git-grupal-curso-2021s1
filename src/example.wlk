@@ -24,6 +24,10 @@ object matias{
 	method rompiendoGit(){
 		return "a ver si git se rompe"
 	}
+	
+	method rompiendoMasTodavia(){
+		return "rompiendo"
+	}
 }
 
 object lautaro {
