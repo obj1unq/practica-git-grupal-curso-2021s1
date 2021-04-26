@@ -52,6 +52,10 @@ object agustin {
 		return "probando pushear"
 	}
 
+	method viendoSiHayConflicto() {
+		return "probando"
+}
+
 }
 
 object lautaro {
