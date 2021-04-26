@@ -8,6 +8,7 @@ object nahue {
 	}
 }
 
+
 object matias{
 	method pusheado(){
 		return "Probando Push"
@@ -23,5 +24,15 @@ object matias{
 	
 	method rompiendoGit(){
 		return "a ver si git se rompe"
+	}
+}
+
+object santi {
+	method queHicisteHoy() {
+		return "Trabaje y ahora estoy participando de la clase de Obj1"
+	}
+	
+	method actividadActual() {
+		return "Descubriendo conflictos en git"
 	}
 }
