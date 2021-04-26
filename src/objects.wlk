@@ -36,3 +36,17 @@ object pava{
 	}
 }
 
+object helado {
+	 
+	method mejorHelado() {
+		return "El mejor helado es la menta granizada"
+	}
+}
+
+object mentaGranizada {
+	var esHelado = false
+	
+	method esHelado() {
+		return esHelado
+	}
+}
