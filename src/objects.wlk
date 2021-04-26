@@ -4,6 +4,10 @@ object taza {
 	method enfriar() {
 		temperatura -= 1
 	}
+	
+	method calentar(){
+		temperatura += 1
+	}
 }
 object pava{
 	var temperatura = 100
