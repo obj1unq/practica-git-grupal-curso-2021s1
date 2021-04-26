@@ -34,7 +34,11 @@ object matias{
 object agustin {
 	method probando() {
 		return "probando pushear"
+	}
+	method viendoSiHayConflicto() {
+		return "probando"
 }
+
 
 }
 
