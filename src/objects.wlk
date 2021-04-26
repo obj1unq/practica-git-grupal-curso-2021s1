@@ -4,4 +4,8 @@ object taza {
 	method enfriar() {
 		temperatura -= 1
 	}
+	
+	method calentar(){
+		temperatura += 1
+	}
 }
