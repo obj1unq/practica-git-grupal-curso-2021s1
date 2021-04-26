@@ -1,3 +1,12 @@
+object cuchara {
+	
+	var desgaste = 100
+	
+	method revolver(){
+		desgaste -= 1
+	}
+}
+
 object taza {
 	var temperatura = 50
 	
