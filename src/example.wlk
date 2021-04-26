@@ -7,3 +7,13 @@ object nahue {
 		return "Descubriendo Git"
 	}
 }
+
+object matias{
+	method pusheado(){
+		return "Probando Push"
+	}
+	
+	method pruebaMetodoNuevo(){
+		return "pusheando por segunda vez"
+	}
+}
