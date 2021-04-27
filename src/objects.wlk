@@ -75,3 +75,7 @@ object mentaGranizada {
 		return elMejor
 	}
 }
+
+object heladoNuevo(){
+	return heladoTramontana
+}
