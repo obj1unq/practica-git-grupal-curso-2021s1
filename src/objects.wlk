@@ -76,6 +76,11 @@ object mentaGranizada {
 	}
 }
 
-object heladoNuevo(){
-	return heladoTramontana
+object heladoNuevo{
+	method nuevoHelado(){
+		return "NuevoHelado"
+	}
+	
 }
+
+
